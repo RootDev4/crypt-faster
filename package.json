@@ -1,0 +1,20 @@
+{
+  "name": "crypt-faster",
+  "version": "1.0.0",
+  "description": "Cryptography utility for Node.js to en-/decrypt faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RootDev4/crypt-faster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RootDev4/crypt-faster/issues"
+  },
+  "homepage": "https://github.com/RootDev4/crypt-faster#readme"
+}
